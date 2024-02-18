@@ -1,8 +1,10 @@
 ## Sou Márcio
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcio-guimaraes&show_icons=true&theme=tokyonight)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcio-guimaraes&layout=compact&theme=tokyonight)](#)<br>
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcin.sla)
+<div style="display: flex; flex-direction: column; align-items: center; height: 100px">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcio-guimaraes&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudemiro-Nogueira&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 
 
 
