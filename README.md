@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @marcio-guimaraes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Sou Márcio
 
-<!---
-marcio-guimaraes/marcio-guimaraes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcio-guimaraes&show_icons=true&theme=tokyonight)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcio-guimaraes&layout=compact&theme=tokyonight)](#)<br>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcin.sla)
+
+
+
