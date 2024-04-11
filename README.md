@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg" style="display: flex">
+<a href="https://www.instagram.com/marcin.sla" style="display: flex">
   <img style="width: 100px; height: 100px;" src="https://i.pinimg.com/736x/9e/4e/a2/9e4ea2967ff33395fb5fa9e5892de67a.jpg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+M%C3%A1rcio+Guimar%C3%A3es;Welcome+to+my+profile" alt="Typing SVG" style="height: 100%; width:80%;">
 </a>
