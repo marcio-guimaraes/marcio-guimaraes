@@ -4,7 +4,7 @@
     </a>
     <a href="https://www.instagram.com/marcin.sla"> 
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=770977&random=false&width=435&lines=Hi%2C+I'm+M%C3%A1rcio+Guimar%C3%A3es;Welcome+to+my+profile" alt="Typing SVG"         
-        style="height: 100%; width:50%;">
+        style="height: 100%; width:80%;">
     </a>
 </div>
 
